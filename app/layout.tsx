@@ -65,6 +65,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-background">
       <head>
+        https://ramenbet13casino.vercel.app/
         {/* Пользовательский слот: сюда можно добавлять дополнительные meta/verification теги */}
       </head>
       <body className={`antialiased ${inter.variable} ${ptSerif.variable}`}>
